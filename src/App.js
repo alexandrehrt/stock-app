@@ -2,13 +2,13 @@ import React from 'react';
 
 import GlobalStyle from './styles/global';
 
-import Chart from './components/Chart'
+import Dashboard from './pages/Dashboard';
 
 
 function App() {
   return (
     <>
-      <Chart />
+      <Dashboard />
       <GlobalStyle />
     </>
   )
