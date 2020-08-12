@@ -1,3 +1,5 @@
+![pic-selected-200812-0114-58](https://user-images.githubusercontent.com/62735338/89975099-3a72ba80-dc3b-11ea-9fdc-41ee56f8c4f8.png)
+
 # Introduction
 A simple app that shows the price of a given stock in the last 100 days.
 Created using [React](https://reactjs.org/), [Styled-Components](https://styled-components.com/) and [Plotly](https://plotly.com/).
