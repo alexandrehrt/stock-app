@@ -2,6 +2,9 @@
 A simple app that shows the price of a given stock in the last 100 days.
 Created using [React](https://reactjs.org/), [Styled-Components](https://styled-components.com/) and [Plotly](https://plotly.com/).
 
+Get your free api key at [https://www.alphavantage.co/](https://www.alphavantage.co/)
+and assign it to the API_KEY variable in a .env file.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
